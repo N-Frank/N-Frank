@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Numfor Frank-Louis
 - 👀 I’m interested in Robotics/Automation with implementation of AI
 - 🌱 I’m currently learning NLP with Transformers
-- 💞️ I’m looking to collaborate with anyone interested in ROBOTICS
+- 💞️ I’m looking to collaborate with anyone interested in ROBOTICS/Automation
 - 📫 How to reach me, my email address is: numforfrank7@gmail.com
 
 <!---
